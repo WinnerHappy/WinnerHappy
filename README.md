@@ -4,6 +4,7 @@
 <div>
   <p align="center">Olá! Tudo bem? 😃️</p>
   <p align="center">Meu nome é <a href="https://www.linkedin.com/in/winner-happy/"><i>Winner Happy</i></a> e eu trabalho na  <a href="https://www.linkedin.com/company/clarobrasil/mycompany/"><i>Claro SA</i></a>. 😃️</p>
+  <p align="center"><i></o>Atualmente tenho estudado <img align="center" alt="Java" height="30" width="30" src="/assets/java.png"> </i></p>
  
   </a><br>
   
